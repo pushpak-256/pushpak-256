@@ -13,10 +13,7 @@
 # 🔭Actions
 
 <div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256"/>
-</div>
-<div align="center">
-	<img src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.gif" />
+	<img src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
@@ -26,8 +23,11 @@
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/pushpak-256?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
-
-
+<!--
+<div align="center">
+    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256"/>
+</div>
+-->
 # 🌱Social &nbsp;&nbsp;&nbsp;&nbsp;[![Visits Badge](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)
 <div align="center">
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
