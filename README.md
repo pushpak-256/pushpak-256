@@ -1,7 +1,6 @@
   ### Hello World!  <img src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/Hi.gif?raw=true" width="29px">
   
 [![Visits Badge](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)
-
   
   [//]: <> (This is also a comment.
 <img src="https://github.com/Pushpak-256/Pushpak-256/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />)
@@ -20,6 +19,7 @@ speed =5000 w=900 h =49
 
 <div align="center">
 	<img height="300px" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
+	
 </div>
 
 
@@ -45,11 +45,12 @@ speed =5000 w=900 h =49
 
 
 # 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
+<!--<div align="left">
+    <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=juicyfresh"/>
+	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
+</div>-->
 <div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
-<div align="center">
-    
+    <image height="160px" widht="auto" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=dracula&row=1&column=8&no-bg=true&no-frame=true">
 </div>
 
 
