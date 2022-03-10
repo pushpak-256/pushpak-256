@@ -18,20 +18,23 @@
 	<img height="300px" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
+
 <div align="center">
-	<img height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple"/>
+	<img height="280px" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple"/>
 </div>
 
 
 <div align="center">
-    <img height="245px" src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&theme=github"/>
+    <img height="380px"  width="1000"
+		 src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=000000&color=7fff00&custom_title=Contribution%20Graph&line=800080&point=808080"/>
 </div>
 
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/pushpak-256?template=classic&config.timezone=Asia%2FShanghai"/>
-   
-</div>
 <!-- 
+
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/pushpak-256?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=pushpak-256&show_icons=true"/>
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpak-256&theme=blue-green"/>
 -->
