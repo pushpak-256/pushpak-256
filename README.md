@@ -49,8 +49,11 @@ speed =5000 w=900 h =49
     <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=juicyfresh"/>
 	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
 </div>-->
-<div align="center">
-    <image height="200" widht="max" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&column=8&no-bg=true&no-frame=true">
-</div>
+
+<p align="center" width="100%">
+    <span ><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> 
+    <image src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&column=8&no-bg=true&no-frame=true">
+    <image  width="70%" src="https://raw.githubusercontent.com/pushpak-256/pushpak-256/91838ce9931743e38c3a26a27b3014d693b39f7b/profile-3d-contrib/profile-night-green.svg">   
+</p>
 
 
