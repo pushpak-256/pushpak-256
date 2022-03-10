@@ -5,12 +5,16 @@
   
   [//]: <> (This is also a comment.
 <img src="https://github.com/Pushpak-256/Pushpak-256/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />)
-<a href="https://ko-fi.com/Pushpak-256"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
- ### About
+
+# About 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=08DA08&vCenter=true&width=900&height=49&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+as+a+Software+Developer+in+Mumbai%2C+India)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=AB00F4&vCenter=true&width=900&height=49&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Block+Chain+development)](https://git.io/typing-svg)
+<!--
+ # About 
 - 🔭 I’m currently working as a Software Developer in Mumbai, India
 - 🌱 I’m currently learning Block Chain development
-
+https://readme-typing-svg.herokuapp.com/demo/
+speed =5000 w=900 h =49
+-->
 
 # 🔭Actions
 
