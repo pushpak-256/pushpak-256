@@ -50,7 +50,7 @@ speed =5000 w=900 h =49
 	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
 </div>-->
 <div align="center">
-    <image height="160px" widht="auto" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=dracula&row=1&column=8&no-bg=true&no-frame=true">
+    <image height="200" widht="max" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&column=8&no-bg=true&no-frame=true">
 </div>
 
 
