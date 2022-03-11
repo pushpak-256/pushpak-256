@@ -54,8 +54,10 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 </div>-->
 
 <p align="center" width="100%">
- <span ><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span> 
- <image src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&column=8&no-bg=true&no-frame=true">    
+	<!--
+ <span ><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
+ -->
+ <image src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&row=1&no-bg=true&no-frame=true">    
 </p>
 	
 <div align="center">
