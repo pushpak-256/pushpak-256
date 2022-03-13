@@ -65,7 +65,7 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 <!-- width="50%" -->
   <image 
    height="400px" 
-   src="https://raw.githubusercontent.com/pushpak-256/pushpak-256/91838ce9931743e38c3a26a27b3014d693b39f7b/profile-3d-contrib/profile-night-green.svg"
+   src="https://raw.githubusercontent.com/pushpak-256/pushpak-256/main/profile-3d-contrib/profile-night-green.svg"
    >
 	
 </div>
