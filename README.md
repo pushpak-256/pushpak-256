@@ -1,6 +1,5 @@
  <a name="top"></a>
- ### Hello World!  <img src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/Hi.gif?raw=true" width="29px">
-
+ ### Hello World!  <img  src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/Hi.gif?raw=true" width="29px">
 
 [![Visits Badge](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)
   
@@ -20,22 +19,22 @@ speed =5000 w=900 h =49
 
 <h2>:bulb: Languages & Frameworks</h2>
 <code><img title="Java" alt="java" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" /></code>
-<code><img title="Hibernate" alt="Hibernate" width="42px" src="https://user-images.githubusercontent.com/70573212/158594703-b513c743-38be-4a61-8566-50f198a834e1.png" /></code>
-<code><img title="SQL" alt="SQL" width="40px" src="https://user-images.githubusercontent.com/70573212/158593634-04a2e7f2-d724-4b15-988f-e868cd6830f7.png" /></code>
-<code><img title="Spring Framework" alt="Spring" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code> <img title="Markdown" alt="markdown" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+<code><img title="Hibernate" alt="Hibernate" width="45px" src="https://user-images.githubusercontent.com/70573212/158594703-b513c743-38be-4a61-8566-50f198a834e1.png" /></code>
+<code><img title="SQL" alt="SQL" width="45px" src="https://user-images.githubusercontent.com/70573212/158593634-04a2e7f2-d724-4b15-988f-e868cd6830f7.png" /></code>
+<code><img title="Spring Framework" alt="Spring" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></code>
+<code><img title="HTML 5" alt="html5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="45px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/markdown-github.png" /></code>
 </br></br>
 
 <h2>:hammer_and_wrench: Tools I use</h2>
-<code><img title="Git" alt="git" width="45px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/eclipse.png" /></code>
-<code><img title="Eclipse IDE" alt="Eclipse" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="50px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/icons8-github-512.png" /></code>
-<code><img title="GitLab" alt="gitlab" width="50px" src="https://img.icons8.com/color/240/000000/gitlab.png" /></code>
+<code><img title="Eclipse IDE" alt="Eclipse" width="45px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/eclipse.png" /></code>
+<code><img title="Git" alt="git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="50px" src="https://user-images.githubusercontent.com/70573212/158606128-1a297412-b8d7-439e-a194-0de3faa55a6d.png" /></code>
+<code><img title="GitLab" alt="gitlab" width="45px" src="https://img.icons8.com/color/240/000000/gitlab.png" /></code>
 </br></br>
 
 # 🔭Actions
