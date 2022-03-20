@@ -6,7 +6,7 @@
   [//]: <> (This is also a comment.
 <img src="https://github.com/Pushpak-256/Pushpak-256/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />)
 
-# About 
+## About 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=08DA08&vCenter=true&width=900&height=49&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+as+a+Software+Developer+in+Mumbai%2C+India)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=AB00F4&vCenter=true&width=900&height=49&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Block+Chain+development)](https://git.io/typing-svg)
 <!--
@@ -17,27 +17,30 @@ https://readme-typing-svg.herokuapp.com/demo/
 speed =5000 w=900 h =49
 -->
 
-<h2>:bulb: Languages & Frameworks</h2>
-<code><img title="Java" alt="java" width="50px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" /></code>
-<code><img title="Hibernate" alt="Hibernate" width="45px" src="https://user-images.githubusercontent.com/70573212/158594703-b513c743-38be-4a61-8566-50f198a834e1.png" /></code>
-<code><img title="SQL" alt="SQL" width="45px" src="https://user-images.githubusercontent.com/70573212/158593634-04a2e7f2-d724-4b15-988f-e868cd6830f7.png" /></code>
-<code><img title="Spring Framework" alt="Spring" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></code>
-<code><img title="HTML 5" alt="html5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code> <img title="Markdown" alt="markdown" width="45px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/markdown-github.png" /></code>
+## :bulb: Languages & Frameworks 
+
+<code><img title="Java" alt="java" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" /></code>
+<code><img title="Hibernate" alt="Hibernate" width="30px" src="https://user-images.githubusercontent.com/70573212/158594703-b513c743-38be-4a61-8566-50f198a834e1.png" /></code>
+<code><img title="SQL" alt="SQL" width="30px" src="https://user-images.githubusercontent.com/70573212/158593634-04a2e7f2-d724-4b15-988f-e868cd6830f7.png" /></code>
+<code><img title="Spring Framework" alt="Spring" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></code>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="CSS 3" alt="css 3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+<code> <img title="Markdown" alt="markdown" width="30px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/markdown-github.png" /></code>
 </br></br>
 
-<h2>:hammer_and_wrench: Tools I use</h2>
-<code><img title="Eclipse IDE" alt="Eclipse" width="45px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/eclipse.png" /></code>
-<code><img title="Git" alt="git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="50px" src="https://user-images.githubusercontent.com/70573212/158606128-1a297412-b8d7-439e-a194-0de3faa55a6d.png" /></code>
-<code><img title="GitLab" alt="gitlab" width="45px" src="https://img.icons8.com/color/240/000000/gitlab.png" /></code>
+## :hammer_and_wrench: Tools I use
+
+<code><img title="Eclipse IDE" alt="Eclipse" width="30px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/eclipse.png" /></code>
+<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://user-images.githubusercontent.com/70573212/158606128-1a297412-b8d7-439e-a194-0de3faa55a6d.png" /></code>
+<code><img title="GitLab" alt="gitlab" width="30px" src="https://img.icons8.com/color/240/000000/gitlab.png" /></code>
 </br></br>
 
-# 🔭Actions
+
+## 🔭Actions
 
 <div align="center">
 	<img height="300px" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
@@ -68,7 +71,7 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 -->
 
 
-# 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
+## 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
 <!--<div align="left">
     <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=juicyfresh"/>
 	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
