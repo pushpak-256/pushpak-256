@@ -8,7 +8,7 @@
 
 ## About 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=08DA08&vCenter=true&width=900&height=49&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+as+a+Software+Developer+in+Mumbai%2C+India)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=AB00F4&vCenter=true&width=900&height=49&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Block+Chain+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=AB00F4&vCenter=true&width=900&height=49&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+Improving+Spring+and+DSA)](https://git.io/typing-svg)
 <!--
  # About 
 - 🔭 I’m currently working as a Software Developer in Mumbai, India
