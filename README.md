@@ -30,11 +30,9 @@ speed =5000 w=900 h =49
 
 ## 👨‍💻 Coding Profiles Links 
 
-<code><a href="https://leetcode.com/pushpak7070/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" 
-alt="leetcode" width="33px" height="33px"
- target="_blank" rel="noopener noreferrer"></a>
+<code><a href="https://leetcode.com/pushpak7070/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a>
 </code> 
-<code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="37px" height="36px" target="_blank" rel="noopener noreferrer"></a></code>
+<code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a></code>
 </br></br>
 
 ## :hammer_and_wrench: Tools I use
@@ -49,62 +47,6 @@ alt="leetcode" width="33px" height="33px"
 </br></br>
 
 ## 🔭Actions
-
-<div align="center">
-	<img height="300px" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
-	
-</div>
-
-
-<div align="center">
-	<img height="280px" 
-	     src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple"/>
-</div>
-
-
-<div align="center">
-    <img height="380px"  width="1000"
-src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=000000&color=7fff00&custom_title=Contribution%20Graph&line=800080&point=808080"
-    />
-</div>
-
-<!-- 
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/pushpak-256?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=pushpak-256&show_icons=true"/>
-<img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpak-256&theme=blue-green"/>
--->
-
-
-## 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
-<!--<div align="left">
-    <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=juicyfresh"/>
-	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
-</div>-->
-
-<p align="center" width="100%">
-	<!--
- <span ><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
- -->
- <image src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&row=1&no-bg=true&no-frame=true">    
-</p>
-	
-<div align="center">
-<!-- width="50%" -->
-  <image 
-   height="400px" 
-   src="https://raw.githubusercontent.com/pushpak-256/pushpak-256/main/profile-3d-contrib/profile-night-green.svg"
-   >
-	
-</div>
-	
-<p align="right">
-	<a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=#171515&style=flat&logo"></a>
-</p>
-
 
 <div align="center">
 	<img height="300px" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
