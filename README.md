@@ -1,14 +1,15 @@
  <a name="top"></a>
- ### Hello World!  <img  src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/Hi.gif?raw=true" width="29px">
+ #### Hello World!  <img  src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/Hi.gif?raw=true" width="29px">
 
 [![Visits Badge](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)
   
   [//]: <> (This is also a comment.
 <img src="https://github.com/Pushpak-256/Pushpak-256/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />)
 
-## About 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=08DA08&vCenter=true&width=900&height=49&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+as+a+Software+Developer+in+Mumbai%2C+India)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=AB00F4&vCenter=true&width=900&height=49&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+Improving+Spring+and+DSA)](https://git.io/typing-svg)
+### 📃 About 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=08DA08&vCenter=true&width=900&height=17&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+as+a+Software+Developer+in+Mumbai%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Menlo&color=AB00F4&vCenter=true&width=900&height=17&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+Improving+Spring+and+DSA)](https://git.io/typing-svg)
 <!--
  # About 
 - 🔭 I’m currently working as a Software Developer in Mumbai, India
@@ -17,7 +18,7 @@ https://readme-typing-svg.herokuapp.com/demo/
 speed =5000 w=900 h =49
 -->
 
-## :bulb: Languages & Frameworks 
+### :bulb: Languages & Frameworks 
 
 <code><img title="Java" alt="java" width="35px" height="35px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" /></code>
 <code><img title="Hibernate" alt="Hibernate" width="30px" src="https://user-images.githubusercontent.com/70573212/158594703-b513c743-38be-4a61-8566-50f198a834e1.png" /></code>
@@ -28,14 +29,14 @@ speed =5000 w=900 h =49
 <code> <img title="Markdown" alt="markdown" width="30px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/markdown-github.png" /></code>
 </br></br>
 
-## 👨‍💻 Coding Profiles Links 
+### 👨‍💻 Coding Profiles Links 
 
 <code><a href="https://leetcode.com/pushpak7070/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a>
 </code> 
 <code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a></code>
 </br></br>
 
-## :hammer_and_wrench: Tools I use
+### :hammer_and_wrench: Tools I use
 
 <code><img title="Eclipse IDE" alt="Eclipse" width="30px" src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/eclipse.png" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
@@ -46,16 +47,15 @@ speed =5000 w=900 h =49
 <code><img title="GitLab" alt="gitlab" width="35px" height="35px" src="https://img.icons8.com/color/240/000000/gitlab.png" /></code>
 </br></br>
 
-## 🔭Actions
+### 🔭Actions
 
 <div align="center">
-	<img height="300px" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
-	
+	<img height="200px" alt="snake game" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 
 <div align="center">
-	<img height="280px" 
+	<img height="280px" alt="streak"
 	     src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple"/>
 </div>
 
@@ -77,7 +77,7 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 -->
 
 
-## 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
+### 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
 <!--<div align="left">
     <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=juicyfresh"/>
 	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
