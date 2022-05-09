@@ -30,9 +30,11 @@ speed =5000 w=900 h =49
 
 ## 👨‍💻 Coding Profiles Links 
 
-<code><a href="https://leetcode.com/pushpak7070/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a>
+<code><a href="https://leetcode.com/pushpak7070/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" 
+alt="leetcode" width="33px" height="33px"
+ target="_blank" rel="noopener noreferrer"></a>
 </code> 
-<code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a></code>
+<code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="37px" height="36px" target="_blank" rel="noopener noreferrer"></a></code>
 </br></br>
 
 ## :hammer_and_wrench: Tools I use
