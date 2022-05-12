@@ -19,7 +19,7 @@ speed =5000 w=900 h =49
 
 ### :bulb: Languages & Frameworks 
 
-<code><img title="Java" alt="java" width="35px" height="35px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" /></code>
+<code><img title="Java" alt="java" width="42px" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
 <code><img title="Hibernate" alt="Hibernate" width="30px" src="https://user-images.githubusercontent.com/70573212/158594703-b513c743-38be-4a61-8566-50f198a834e1.png" /></code>
 <code><img title="SQL" alt="SQL" width="30px" src="https://user-images.githubusercontent.com/70573212/158593634-04a2e7f2-d724-4b15-988f-e868cd6830f7.png" /></code>
 <code><img title="Spring Framework" alt="Spring" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" /></code>
