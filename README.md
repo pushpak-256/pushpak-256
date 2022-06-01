@@ -1,5 +1,6 @@
  <a name="top"></a>
- #### Hello World!  <img  src="https://github.com/pushpak-256/pushpak-256/blob/main/Stickers/Hi.gif?raw=true" width="29px">
+
+ #### Hello World! 
 
 [![Visits Badge](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)](https://badges.pufler.dev/visits/Pushpak-256/Pushpak-256)
   
