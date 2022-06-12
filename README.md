@@ -56,7 +56,7 @@ speed =5000 w=900 h =49
 
 <div align="center">
 	<img height="280px" alt="streak"
-	     src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple"/>
+	     src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple&hide_border=true"/>
 </div>
 
 
