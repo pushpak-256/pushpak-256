@@ -51,20 +51,15 @@ speed =5000 w=900 h =49
 
 <div align="center">
 	<img height="200px" alt="snake game" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
-</div>
-
-
-<div align="center">
-	<img height="280px" alt="streak"
+	<br><br>
+	<img height="240px" alt="streak" width="600"
 	     src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple&hide_border=true"/>
-</div>
-
-
-<div align="center">
-    <img height="380px"  width="1000"
+ <img height="320px"  width="750"
 src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=000000&color=7fff00&custom_title=Contribution%20Graph&line=800080&point=808080"
     />
 </div>
+
+
 
 <!-- 
 
