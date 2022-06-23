@@ -14,4 +14,3 @@ jobs:
       - uses: pushpak-256/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ e7a7f23e-3dca-4ed6-b77a-540b39f2e742 }}
-            COMMIT_MESSAGE: 🤖 Update Waka-Time
