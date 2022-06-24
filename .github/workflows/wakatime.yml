@@ -11,7 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-    
-      - uses: pushpak-256/waka-readme-stats@main
+      - uses: pushpak-256/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
