@@ -99,4 +99,12 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 </p>
 	
 <!--START_SECTION:waka-->
+
+```text
+CSS     3 hrs 12 mins   ██████████████▓░░░░░░░░░░   59.25 %
+HTML    1 hr 54 mins    █████████░░░░░░░░░░░░░░░░   35.43 %
+Java    16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
