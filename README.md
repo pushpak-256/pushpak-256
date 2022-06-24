@@ -97,3 +97,6 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 <p align="right">
 	<a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=#171515&style=flat&logo"></a>
 </p>
+	
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
