@@ -50,11 +50,12 @@ speed =5000 w=900 h =49
 ### 🔭Actions
 
 <div align="center">
-	<img height="200px" alt="snake game" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg" />
-	<br><br>
-	<img height="240px" alt="streak" width="600"
-	     src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple&hide_border=true"/>
- <img height="320px"  width="750"
+	<img width="78%" alt="snake game" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg"/>
+	  </br> </br>
+<img alt="streak" width="50%"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple&hide_border=true"/>
+      <br> <br>
+ <img  width="63%"
 src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=000000&color=7fff00&custom_title=Contribution%20Graph&line=800080&point=808080"
     />
 </div>
@@ -72,39 +73,41 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 -->
 
 
-### 🌱Social &nbsp;&nbsp;&nbsp;&nbsp; 
-<!--<div align="left">
-    <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=juicyfresh"/>
-	 <img height="" src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix"/>
-</div>-->
 
-<p align="center" width="100%">
-	<!--
- <span ><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>                <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span>
- -->
- <image src="https://github-profile-trophy.vercel.app/?username=pushpak-256&theme=matrix&row=1&no-bg=true&no-frame=true">    
-</p>
-	
+<details>
+<summary><h2>⌚ Time spent on Languages 📊 </h2></summary> 
 <div align="center">
-<!-- width="50%" -->
-  <image 
-   height="400px" 
-   src="https://raw.githubusercontent.com/pushpak-256/pushpak-256/main/profile-3d-contrib/profile-night-green.svg"
-   >
-	
-</div>
-	
-<p align="right">
-	<a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=#171515&style=flat&logo"></a>
-</p>
-	
+ Weekly stats : <br>
+ 
 <!--START_SECTION:waka-->
 
 ```text
-CSS     3 hrs 12 mins   ██████████████▓░░░░░░░░░░   59.25 %
-HTML    1 hr 54 mins    █████████░░░░░░░░░░░░░░░░   35.43 %
-Java    16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Java         6 hrs 45 mins   ████████████████████▓░░░░   82.48 %
+XML          59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
+
+<img  width="70%" src="https://wakatime.com/share/@Pushpak_256/7ae8e292-84e9-48c3-ac25-38219ce81d1d.svg"/>
+</div>
+</br>
+</details>
+
+
+
+### 🌱Social
+
+<div align="center">
+  <image 
+   width="63%"
+   src="https://raw.githubusercontent.com/pushpak-256/pushpak-256/main/profile-3d-contrib/profile-night-green.svg">
+</div>
+
+<p align="right">
+	<a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=#171515&style=flat&logo"></a>
+</p>
+
