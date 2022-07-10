@@ -81,15 +81,6 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
  
 <!--START_SECTION:waka-->
 
-```text
-Java         6 hrs 45 mins   ████████████████████▓░░░░   82.48 %
-XML          59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-```
-
 <!--END_SECTION:waka-->
 
 <img  width="70%" src="https://wakatime.com/share/@Pushpak_256/7ae8e292-84e9-48c3-ac25-38219ce81d1d.svg"/>
