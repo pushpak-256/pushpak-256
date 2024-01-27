@@ -35,7 +35,9 @@ speed =5000 w=900 h =49
 </code> 
 <code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a></code>
 #### LeetCode Stats
+<a href="https://leetcode.com/pushpak7070/">
 <img src="https://leetcode.card.workers.dev/?username=pushpak7070&theme=dark" alt="stats loading....">
+</a>
 
 
 
