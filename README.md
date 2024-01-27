@@ -34,7 +34,10 @@ speed =5000 w=900 h =49
 <code><a href="https://leetcode.com/pushpak7070/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a>
 </code> 
 <code><a href="https://www.hackerrank.com/pushpak7070"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="Hackerrank" width="35px" height="35px" target="_blank" rel="noopener noreferrer"></a></code>
-</br></br>
+#### LeetCode Stats
+<img src="https://leetcode.card.workers.dev/?username=pushpak7070&theme=dark" alt="stats loading....">
+
+
 
 ### :hammer_and_wrench: Tools I use
 
@@ -49,15 +52,20 @@ speed =5000 w=900 h =49
 
 ### 🔭Actions
 
+<!--
 <div align="center">
 	<img width="78%" alt="snake game" src="https://github.com/pushpak-256/pushpak-256/blob/output/github-contribution-grid-snake.svg"/>
-	  </br> </br>
-<img alt="streak" width="50%"
- src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple&hide_border=true"/>
-      <br> <br>
+	  </br> </br>  
+
+    <br>
  <img  width="63%"
 src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=000000&color=7fff00&custom_title=Contribution%20Graph&line=800080&point=808080"
     />
+   
+   comment snake run it is not responding -->
+<img alt="streak" width="50%"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak-256&theme=chartreuse-dark&currStreakNum=purple&currStreakLabel=purple&hide_border=true"/>
+      <br>
 </div>
 
 
@@ -75,7 +83,7 @@ src="https://activity-graph.herokuapp.com/graph?username=pushpak-256&bg_color=00
 
 
 <details>
-<summary><h2>⌚ Time spent on Languages 📊 </h2></summary> 
+<summary><h3>⌚ Time spent on Languages 📊 </h2></summary> 
 <div align="center">
  Weekly stats : <br>
  
